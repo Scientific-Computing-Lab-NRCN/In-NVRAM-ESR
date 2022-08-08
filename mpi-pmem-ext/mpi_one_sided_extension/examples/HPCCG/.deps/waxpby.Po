@@ -1,0 +1,6 @@
+HPCCG/waxpby.o: HPCCG/waxpby.cpp /usr/include/stdc-predef.h \
+ HPCCG/waxpby.hpp
+
+/usr/include/stdc-predef.h:
+
+HPCCG/waxpby.hpp:

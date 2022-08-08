@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "random": "c",
+        "repeal_recovery.h": "c",
+        "cerrno": "c"
+    }
+}

@@ -1,0 +1,516 @@
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 96
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 97
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 100
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 104
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 105
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 107
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 111
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 117
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 119
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 122
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 123
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 124
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 127
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 98
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 110
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 112
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 114
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 115
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 120
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 121
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 99
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 41
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 160
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 228
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 101
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 43
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 161
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 233
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 102
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 57
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 165
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 241
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 103
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 106
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 108
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 109
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 113
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 116
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 118
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 34
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 166
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 252
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 125
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 36
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 167
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 253
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 126
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 38
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 170
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 42
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 171
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 44
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 177
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 46
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 178
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 59
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 180
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 32
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 181
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 33
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 182
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 35
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 183
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 37
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 184
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 39
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 187
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 40
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 45
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 47
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 48
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 49
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 50
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 51
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 52
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 128
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 53
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 132
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 54
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 134
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 55
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 144
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 56
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 145
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 58
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 147
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 60
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 148
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 61
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 150
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 62
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 155
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 63
+Invalid communication strategy.: Success
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 4
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 7
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 13
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 14
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 20
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 64
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 22
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 66
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 30
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 73
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 1
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 74
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 129
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 3
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 76
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 130
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 5
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 89
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 131
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 8
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 90
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 133
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 9
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 91
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 135
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 10
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 11
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 12
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 15
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 16
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 17
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 18
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 19
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 21
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 23
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 24
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 25
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 27
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 28
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 29
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 31
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 2
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 6
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 26
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 65
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 136
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 67
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 137
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 68
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 138
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 69
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 139
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 70
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 140
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 71
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 141
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 72
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 142
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 75
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 143
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 77
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 146
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 78
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 149
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 79
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 151
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 162
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 80
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 152
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 163
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 81
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 153
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 164
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 82
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 154
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 168
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 84
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 157
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 169
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 85
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 158
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 172
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 224
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 204
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 86
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 159
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 173
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 225
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 213
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 87
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 88
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 92
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 156
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 174
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 226
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 93
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 175
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 227
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 94
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 176
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 229
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 95
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 179
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 230
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 83
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 185
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 234
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 186
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 235
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 188
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 236
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 189
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 238
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 195
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 190
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 239
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 197
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 191
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 240
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 200
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 242
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 201
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 243
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 202
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 245
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 203
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 246
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 208
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 247
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 209
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 248
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 210
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 250
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 212
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 251
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 217
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 254
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 221
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 255
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 223
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 231
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 232
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 237
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 244
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 249
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 193
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 194
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 196
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 198
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 199
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 205
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 206
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 207
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 211
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 214
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 215
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 216
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 218
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 219
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 220
+Invalid communication strategy.: Success
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 222
+Invalid communication strategy.: Resource temporarily unavailable
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 192
+
+real	0m1.808s
+user	0m0.023s
+sys	0m0.090s

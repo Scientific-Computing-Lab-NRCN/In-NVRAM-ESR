@@ -1,0 +1,159 @@
+HPCCG/compute_residual.o: HPCCG/compute_residual.cpp \
+ /usr/include/stdc-predef.h /opt/sw/gcc/8.1.0/include/c++/8.1.0/cmath \
+ /opt/sw/gcc/8.1.0/include/c++/8.1.0/x86_64-pc-linux-gnu/bits/c++config.h \
+ /opt/sw/gcc/8.1.0/include/c++/8.1.0/x86_64-pc-linux-gnu/bits/os_defines.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /opt/sw/gcc/8.1.0/include/c++/8.1.0/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+ /opt/sw/gcc/8.1.0/include/c++/8.1.0/bits/cpp_type_traits.h \
+ /opt/sw/gcc/8.1.0/include/c++/8.1.0/ext/type_traits.h \
+ /usr/include/math.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/bits/mathinline.h \
+ /opt/sw/gcc/8.1.0/include/c++/8.1.0/bits/std_abs.h /usr/include/stdlib.h \
+ /opt/sw/gcc/8.1.0/lib/gcc/x86_64-pc-linux-gnu/8.1.0/include/stddef.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/byteswap-16.h \
+ /usr/include/xlocale.h /usr/include/sys/types.h /usr/include/time.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
+ HPCCG/compute_residual.hpp \
+ /opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpi.h \
+ /opt/sw/gcc/8.1.0/include/c++/8.1.0/cstdint \
+ /opt/sw/gcc/8.1.0/lib/gcc/x86_64-pc-linux-gnu/8.1.0/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpio.h \
+ /opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpi.h \
+ /opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpicxx.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
+ /opt/sw/gcc/8.1.0/lib/gcc/x86_64-pc-linux-gnu/8.1.0/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h
+
+/usr/include/stdc-predef.h:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/cmath:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/x86_64-pc-linux-gnu/bits/c++config.h:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/x86_64-pc-linux-gnu/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/bits/cpp_type_traits.h:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/ext/type_traits.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/bits/std_abs.h:
+
+/usr/include/stdlib.h:
+
+/opt/sw/gcc/8.1.0/lib/gcc/x86_64-pc-linux-gnu/8.1.0/include/stddef.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-float.h:
+
+HPCCG/compute_residual.hpp:
+
+/opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpi.h:
+
+/opt/sw/gcc/8.1.0/include/c++/8.1.0/cstdint:
+
+/opt/sw/gcc/8.1.0/lib/gcc/x86_64-pc-linux-gnu/8.1.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpio.h:
+
+/opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpi.h:
+
+/opt/ohpc/pub/mpi/mpich-gnu-ohpc/3.2.1/include/mpicxx.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/opt/sw/gcc/8.1.0/lib/gcc/x86_64-pc-linux-gnu/8.1.0/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
